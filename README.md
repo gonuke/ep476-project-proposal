@@ -32,8 +32,7 @@ full sentences/paragraphs.
 This submission process will rely on `git` and `github` as a way to test some
 of your skills.
 
-1. Visit [this Github classroom](https://classroom.github.com/a/W-FkYHuE) to
-claim your private fork of the repo
+1. By visiting this repository you have claimed your fork of this repo
 
 1. Clone the repo to your local filespace (at CAE or elsewhere)
 
@@ -64,3 +63,4 @@ claim your private fork of the repo
 1. push this modified `proposal` branch to your repository
 
 1. request a review from me in the pull request to complete the submission
+
