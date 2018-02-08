@@ -1,5 +1,9 @@
 ## EP476: Introduction to Scientific Computing for Engineering Physics
 
+Spring 2018
+
+**Due: Tuesday, Feb 13, 1:00 PM**
+
 # Project Proposals
 
 Each student will submit a project proposal, from which we will select 2 or 3
