@@ -1,8 +1,15 @@
+## EP476: Introduction to Scientific Computing for Engineering Physics
+
+Spring 2018
+
+**Due: Tuesday, Feb 13, 1:00 PM**
+
 # Project Proposals
 
-Each student will submit a project proposal, from which we will select 2 or 3
-group projects for as the basis for collaborative development over the
-semester.
+Each student will submit a
+[project](https://github.com/uw-ne/ep476/blob/master/proj/index.md) proposal,
+from which we will select 2 or 3 group projects for as the basis for
+collaborative development over the semester.
 
 ## Proposal Guidelines
 
