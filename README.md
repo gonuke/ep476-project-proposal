@@ -4,7 +4,7 @@ Each student will submit a project proposal, from which we will select 2 or 3
 group projects for as the basis for collaborative development over the
 semester.
 
-## Proposalx Guidelines
+## Proposal Guidelines
 
 Each proposal should describe:
 
