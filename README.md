@@ -1,3 +1,5 @@
+## EP476: Introduction to Scientific Computing for Engineering Physics
+
 # Project Proposals
 
 Each student will submit a project proposal, from which we will select 2 or 3
