@@ -17,6 +17,50 @@ Each proposal should describe:
 1. the strengths you will contribute to a team, particularly those you think
    are rare or unique
 
+1. the pre-requisite knowledge for your team mates to be able to contribute to
+   this problem
+
 1. the criteria you would use to select other for your team, partiularly those
    you think will complement your own to round out your team
 
+The proposal should be written in
+[Github markdown](https://guides.github.com/features/mastering-markdown/) in
+full sentences/paragraphs.
+
+## Submission Process
+
+This submission process will rely on `git` and `github` as a way to test some
+of your skills.
+
+1. Visit [this Github classroom](https://classroom.github.com/a/W-FkYHuE) to
+claim your private fork of the repo
+
+1. Clone the repo to your local filespace (at CAE or elsewhere)
+
+1. Make a branch to start your proposal named `proposal`
+
+1. create a new file and answer the first question above
+
+1. add and commit that file
+
+1. modify that file with an additional add, edit, commit cycle for each of
+   questions 2 and 3
+
+1. push your `proposal` branch to your github repository
+
+1. create a pull request to request that `proposal` is merged into `master`
+
+1. create a branch from the `proposal` branch named `team`
+
+1. create a new file and answer question 4 above
+
+1. add and commit that file
+
+1. modify that file with an additional add, edit, commit cycle for each of
+   questions 5 and 6
+
+1. when complete, merge the `team` branch into the `proposal` branch
+
+1. push this modified `proposal` branch to your repository
+
+1. request a review from me in the pull request to complete the submission
