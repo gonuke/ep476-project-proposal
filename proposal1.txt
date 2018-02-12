@@ -1,0 +1,3 @@
+Project Proposal
+
+1. The objective is to simulate a guitar string. We are trying to model a perfectly elastic flexible loss-less string. 
