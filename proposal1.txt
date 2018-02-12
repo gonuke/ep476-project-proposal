@@ -6,3 +6,6 @@ Project Proposal
    We are trying to simulate the vibration of a simple guitar string and visualise what we call music.
    The motivation for this problem lies in understanding the dynamics of sound waves in acoustic instruments.
 
+3. Our assumptions are perfectly flexible and loss less which no acoustic instrument is. 
+   We do not expect an exact solution. However an emperical one is certainly desirable. 
+
