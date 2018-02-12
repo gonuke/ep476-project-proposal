@@ -9,3 +9,12 @@ Project Proposal
 3. Our assumptions are perfectly flexible and loss less which no acoustic instrument is. 
    We do not expect an exact solution. However an emperical one is certainly desirable. 
 
+4. Having a knowledge and programming and mechanics is essential to analyse such problems so, 
+   I would be able to model the problem and analyse the solution quantitatively and qualitatively 
+
+5. Basic knowledge of C and Elementary Acoustics is essential 
+
+6. A knowledge in advanced programming languages is a credit. Morever we can re-model this problem including losses which can refine
+   the solution. 
+
+End of Proposal1 
