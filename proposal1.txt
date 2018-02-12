@@ -1,3 +1,8 @@
 Project Proposal
 
 1. The objective is to simulate a guitar string. We are trying to model a perfectly elastic flexible loss-less string. 
+
+2. Sound waves are a regular (infact essential) phenomenon in our day to day life.  
+   We are trying to simulate the vibration of a simple guitar string and visualise what we call music.
+   The motivation for this problem lies in understanding the dynamics of sound waves in acoustic instruments.
+
